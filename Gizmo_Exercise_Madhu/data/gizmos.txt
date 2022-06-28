@@ -1,0 +1,41 @@
+1000;Knock Bits;88;12.67
+1001;Widgets;10;35.50
+1002;Grommets;20;23.45
+1003;Wedges;15;10.15
+1004;Wing Bats;11;11.25
+1005;Twinkies;75;15.75
+1006;Wiggles;30;12.34
+1007;Bing Bobs;25;2.39
+1008;Wog Wits;300;19.99
+1009;Barney Bits;21;23.59
+1010;Willie Widgits;89;12.99
+1011;Barge Bogs;35;2.99
+1012;Poggy Pogs;99;1.10
+1013;Pardle Pins;400;0.69
+1014;Piddley Wicks;54;5.19
+1015;Iggy Orks;22;49.95
+1016;Crank Cribs;888;0.29
+1017;Thingies;67;45.98
+1018;Orf Dappers;32;19.98
+1019;Piff Knocks;82;4.95
+1020;Knit Piks;66;6.75
+1021;Piddley Pins;370;0.25
+1022;Tic Tocs;87;1.36
+1023;Tin Wits;23;5.67
+1024;Thinga-ma-bobs;40;10.98
+1025;Fling Flobs;254;2.33
+1026;Barn Bins;45;88.67
+1027;Flap Wrappers;89;44.88
+1028;Pong Pangs;2345;0.10
+1029;Oof Tongs;345;8.49
+1030;Nic Nacs;238;2.99
+1031;Tork Tins;376;0.95
+1032;Lilly Larks;56;12.99
+1033;Minnie Morks;800;1.95
+1034;Cork Handles;654;2.66
+1035;Ding Darns;1208;0.15
+1036;Erk Orks;498;3.99
+1037;Foo Figs;234;5.89
+1038;Googly Eyes;756;6.99
+1039;Handy Pandies;321;4.35
+1040;Inny Outies;219;3.45

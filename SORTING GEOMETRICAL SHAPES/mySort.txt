@@ -1,0 +1,22 @@
+GROUP 1 SORT : GNOME SORT
+***************************************************************************************************************************************
+ 
+Description: 
+This is called Gnome sort or stupid sort because the comparison between elements goes up and down the array
+ 
+Rationale for choosing: 
+This is one of the reasons we feel it is different to all the other sorts, as all other sorts either go all the way up to n-1, 
+or start at n-1 and go all the way to 0, or the other sorts totally splits up the entire array.
+
+Pseudocode:
+ * If you are at element [0] then go to the right element [1]
+ * If elements at 0 is smaller then leave them as is, and go one step right
+ * Compare elements at index 0 and 1, if element at index 0 is larger than 1, then swap them and go one step back
+ * Repeat the above two steps until counter reaches end of array.
+ * If end is reached then array is sorted
+ 
+Since there is only one while loop and no nested loops it may seem that it has an order of n (O(n))but because the index gets 
+incremented and decremented a lot the worst case time complexity becomes quadratic O(n^2). We as a group concur that its not a 
+very efficient algorithm because its complexity is more like that of a bubble sort algorithm.
+
+*****************************************************************************************************************************************
